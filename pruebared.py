@@ -1,4 +1,7 @@
 def suma(a,b):
     print(a+b)
 
-suma(1,2)
+def resta(a,b):
+    print(a-b)
+
+resta(1,2)
