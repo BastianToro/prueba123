@@ -4,4 +4,7 @@ def suma(a,b):
 def resta(a,b):
     print(a-b)
 
-resta(1,2)
+def multi(a,b):
+    print(a*b)
+
+multi(1,2)
